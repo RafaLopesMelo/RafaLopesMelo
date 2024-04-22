@@ -3,7 +3,7 @@
 # 📝About Me
 
 <h3 align="center">
-  Hey, I'm Rafael Melo, a developer passionate about teaching and with the goal of impacting the world through education.
+  Hey, I'm Rafael Melo and my goal is to become a better software engineer every day, but more, I want to help other people to become better too.
 </h3>
 <br/>
 
