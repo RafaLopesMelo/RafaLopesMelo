@@ -29,7 +29,7 @@
 ### <div align="center"> Infra </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,azure,git,nginx&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=git,docker,nginx,aws,vercel,azure&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
