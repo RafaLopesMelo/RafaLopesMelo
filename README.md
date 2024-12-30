@@ -5,34 +5,46 @@
 <h3 align="center">
   Hey, I'm Rafael Melo and my goal is to become a better software engineer every day, but more, I want to help other people to become better too.
 </h3>
+
 <br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Knowledge
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="25%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arch,vim&theme=dark&perline=3" />
+</p>
+
+<td valign="top" width="25%">
 
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark&perline=3" />
 </p>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,mongodb,rabbitmq,mysql&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,rust,go,mongodb,rabbitmq,mysql&theme=dark&perline=3" />
 </p>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### <div align="center"> Infra </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,nginx,aws,vercel,azure&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,gcp&theme=dark&perline=3" />
 </p>
 
+</td>
+
 </td></tr></table>
+
 <br/><br/>
 
 # 📚 What I'm learning
@@ -42,12 +54,8 @@ Recently I've been dedicating time to improve my knowledge in mathematics. While
 <br />
 My primary resource for this learning is the book "[Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)"
 
-## 🧪 Testing
-I've begun studying about testing in general, because, although I do test in my projects, I consider my knowledge in this area to be shallow. My goal with this study is to enhance the quality of my tests and to learn to properly utilize every type of test, particularly unit, integration, and end-to-end (E2E) tests."
-<br />
-My primary resource for this learning is the book "[JavaScript Assertivo: Testes e qualidade de código em todas as camadas da aplicação](https://www.casadocodigo.com.br/products/livro-javascript-assertivo)"
-
-<br/>
+## 🎮 Game Development
+This study explores the creation of a 2D game using Rust and the WGPU graphics API. The focus is on building an isometric, tile-based world with procedural terrain generation, dynamic height properties, and interactive elements. The study aims to leverage Rust's performance and safety features alongside WGPU's modern GPU capabilities to deliver a scalable and visually appealing experience, all developed from the ground up without relying on third-party frameworks.
 
 # 📊 GitHub Stats
 
