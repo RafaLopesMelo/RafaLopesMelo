@@ -11,7 +11,7 @@
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Knowledge
 <table align="center"><tr><td valign="top" width="25%">
 
-### <div align="center"> Tools (btw) </div>
+### <div align="center"> Tools </div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arch,vim&theme=dark&perline=3" />
