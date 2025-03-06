@@ -6,6 +6,12 @@
   Hey, I'm Rafael Melo and my goal is to become a better software engineer every day, but more, I want to help other people to become better too.
 </h3>
 
+<h3 align="center">
+  <a href="https://rafamelo.dev.br/" target="_blank">
+    Discover more about me
+  </a>
+</h3>
+
 <br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Knowledge
